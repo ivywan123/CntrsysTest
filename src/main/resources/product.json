@@ -1,0 +1,12 @@
+{
+  "accountId": 53620168304725,
+  "borrowAmount": 10000,
+  "brandId": ${brandId},
+  "createRoad": false,
+  "datVer": ${dataVer},
+  "deductionAmount": 0,
+  "id": 6000,
+  "initiDuration": 0,
+  "phoneNumber": 19000008888,
+  "pzMultiple": 6
+}
